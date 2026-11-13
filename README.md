@@ -1,2 +1,3 @@
-# Cost-Calculator-Experience
-cost calculation for aggregate sources
+This application shows the the distances to the nearest source locations and calculates the cost to transport material to the address.
+URL: https://ericstotsky.github.io/Cost-Calculator-Experience/
+https://www.arcgis.com/index.html

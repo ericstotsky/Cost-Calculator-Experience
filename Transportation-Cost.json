@@ -1,0 +1,7 @@
+{
+  "name": "Transportation Cost",
+  "type": "Web Experience Builder Application",
+  "description": "Example of using custom widgets and automatically building an Experience Builder app.",
+  "copyright": "Eric Stotsky",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0"
+}
